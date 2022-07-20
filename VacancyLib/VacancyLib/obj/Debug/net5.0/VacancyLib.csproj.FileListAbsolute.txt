@@ -1,0 +1,15 @@
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\bin\Debug\net5.0\VacancyLib.deps.json
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\bin\Debug\net5.0\VacancyLib.dll
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\bin\Debug\net5.0\VacancyLib.pdb
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.csproj.AssemblyReference.cache
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.AssemblyInfoInputs.cache
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.AssemblyInfo.cs
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.dll
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\refint\VacancyLib.dll
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.pdb
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\ref\VacancyLib.dll
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Main\source\repos\VacancyLib\VacancyLib\obj\Debug\net5.0\VacancyLib.csproj.CopyComplete

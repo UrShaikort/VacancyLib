@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAkXgTU+QUF4Am8V4owGu0QAlTgxTNonPPTH60qn1HGIUp2KPzHFQMz9oJrjo3rTihw88XVyFesB4zTs9gzAfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Main\\source\\repos\\VacancyLib\\VacancyLib\\VacancyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Main\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}
